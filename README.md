@@ -61,3 +61,8 @@ Add the following:
 
 MONGO_URI=your_mongo_database_uri
 JWT_SECRET=your_secret_key
+
+
+OUTPUT
+
+![WhatsApp Image 2025-06-03 at 10 31 13_afef76d0](https://github.com/user-attachments/assets/383e9a29-a21f-498b-a1b7-7cdd33d9ecd9)
