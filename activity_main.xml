@@ -1,0 +1,26 @@
+<!-- Pie Chart -->
+<com.github.mikephil.charting.charts.PieChart
+    android:id="@+id/pieChart"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    android:layout_margin="8dp" />
+
+<!-- RecyclerView for expenses -->
+<androidx.recyclerview.widget.RecyclerView
+    android:id="@+id/recyclerView"
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_marginTop="320dp"
+    android:layout_marginBottom="80dp"
+    android:padding="8dp"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
+
+<!-- Add Expense Button -->
+<com.google.android.material.floatingactionbutton.FloatingActionButton
+    android:id="@+id/addButton"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:contentDescription="Add Expense"
+    android:layout_gravity="bottom|end"
+    android:layout_margin="16dp"
+    app:srcCompat="@android:drawable/ic_input_add" />
