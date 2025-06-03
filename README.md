@@ -66,3 +66,7 @@ JWT_SECRET=your_secret_key
 OUTPUT
 
 ![WhatsApp Image 2025-06-03 at 10 31 13_afef76d0](https://github.com/user-attachments/assets/383e9a29-a21f-498b-a1b7-7cdd33d9ecd9)
+
+
+
+![image](https://github.com/user-attachments/assets/2eb14b3d-3ea1-4e1c-9775-ddc2f931b264)
